@@ -1,0 +1,1 @@
+Working on a JavaScript project teaches you resilience. There will be challenges and bugs, but overcoming them—whether it's solving a complex problem or optimizing performance—helps you grow as a developer. It's about constantly learning, experimenting, and pushing the limits of what you can build.
